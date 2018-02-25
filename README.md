@@ -1,0 +1,1 @@
+This is the Titan Project. It is a TicketMaster Event Recommendation System. It can check your geographical location and show all the events near you. Also this system can predict and recommend events based on your liked event history
